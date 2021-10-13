@@ -1,6 +1,7 @@
 ## Hi, I’m Gabriel Veiga
 - ⚙️ Atualmente trabalhando com React Native, Node e Angular
 - 🌱 Estudando React
+- 💼 Estágiario na <a href="https://www.agrostac.com.br/home">STAC</a>
 - 📚 Ciência da Computação - Unioeste Foz do Iguaçu
 
 <div style="display: inline_block"><br>
