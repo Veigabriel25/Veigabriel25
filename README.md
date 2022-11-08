@@ -2,7 +2,7 @@
 - ⚙️ Atualmente trabalhando com React Native, Node e Angular
 - 🌱 Estudando React
 - 💼 Estágiario na <a href="https://www.agrostac.com.br/home">STAC</a>
-- 📚 Ciência da Computação - Unioeste Foz do Iguaçu
+- 🎓 Ciência da Computação - Unioeste Foz do Iguaçu
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Veiga-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
